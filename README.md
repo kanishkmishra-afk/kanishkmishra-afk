@@ -1,13 +1,13 @@
 # Hi, I'm Kanishk Mishra
 
-**Front-End Web Developer** passionate about building fast, accessible, and beautiful web applications using modern technologies. I love transforming ideas into reality with code and continuously learning to improve my craft.
+**Front-End Web Developer** passionate about building fast, accessible, and beautiful web applications using modern technologies. I love transforming ideas into reality with code and am always eager to learn and grow.
 
 ---
 
 ## 🚀 Tech Stack
 
 - **Languages**: JavaScript, HTML, CSS, C, Java  
-- **Frameworks & Libraries**: React.js, Redux Toolkit, Tailwind CSS,GSAP  
+- **Frameworks & Libraries**: React.js, Redux Toolkit, Tailwind CSS, GSAP  
 - **Backend & Services**: Appwrite  
 - **Tools**: Git, GitHub, Vercel  
 
@@ -16,19 +16,23 @@
 ## 🛠 Projects
 
 ### [Blog Space](https://github.com/kanishkmishra-afk/blog-space)  
-A full-stack blogging platform with features like user authentication, post creation/editing, image uploads, and access control.  
+A full-stack blogging platform where users can register, log in, create, edit, and delete posts, with image upload and access control.  
 **Tech Used**: React, Appwrite, Redux Toolkit, Tailwind CSS  
-**Live**: *https://blog-space-bice.vercel.app/*
+**Live**: [blog-space-bice.vercel.app](https://blog-space-bice.vercel.app)
 
-### [Zentry-Zone gaming website](https://github.com/kanishkmishra-afk/Zentry-Zone)  
-"A visually engaging, animated landing page of a modern gaming website built using React, Tailwind CSS, and GSAP for smooth transitions and interactions." 
+---
+
+### [Zentry-Zone Gaming Website](https://github.com/kanishkmishra-afk/Zentry-Zone)  
+A visually captivating animated landing page inspired by modern gaming brands, featuring smooth GSAP animations and responsive layout.  
 **Tech Used**: React, Tailwind CSS, GSAP  
-**Live**: *https://zentry-zone.vercel.app/*
+**Live**: [zentry-zone.vercel.app](https://zentry-zone.vercel.app)
 
-### [Password Generator](https://github.com/kanishkmishra-afk/password-generator)  
-A simple and elegant password generator that lets users create secure and customized passwords with a single click.  
-**Tech Used**: React, JavaScript, CSS, HTML  
-**Live**: *Coming soon*
+---
+
+### [My Portfolio Website](https://github.com/kanishkmishra-afk/kanishk_Portfolio)  
+A personal portfolio showcasing my skills, projects, and contact information with a modern design and smooth interactions.  
+**Tech Used**: React, Tailwind CSS, EmailJS  
+**Live**: [kanishk-portfolio-omega.vercel.app](https://kanishk-portfolio-omega.vercel.app)
 
 ---
 
@@ -42,12 +46,4 @@ A simple and elegant password generator that lets users create secure and custom
 
 > “Code is like humor. When you have to explain it, it’s bad.”
 
-Thanks for stopping by!
-)  
-- **GitHub**: [github.com/kanishkmishra-afk](https://github.com/kanishkmishra-afk)  
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.”
-
-Thanks for stopping by!
+Thanks for visiting!
