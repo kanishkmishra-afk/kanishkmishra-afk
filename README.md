@@ -62,7 +62,9 @@ A modern blog with auth, media uploads, and owner‑only edit/delete.
   - Features: Create/edit/delete posts, image uploads, secure CRUD
   - Delivery: Deployed on Vercel, Git/GitHub for versioning and CI‑style deployments
   - [Live Demo](https://blog-space-bice.vercel.app/)
+   
 Repo: kanishkmishra‑afk/BlogSpace 
+
 ---
 
 ## 📜 Certifications
