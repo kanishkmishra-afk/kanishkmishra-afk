@@ -31,38 +31,38 @@
 ### ✍️ [VideoTube — Production‑Ready Backend API)
 Backend for a video‑sharing platform with JWT auth, refresh tokens, media uploads, and social features.
 
--Auth: Access/refresh tokens, secure http‑only cookies, protected routes
--Media: Multer + Cloudinary for avatar, cover, video files, and thumbnails
--Features: Comments, likes, subscriptions, watch history, channel profile
--Stack: Node.js, Express, MongoDB/Mongoose, Multer, Cloudinary, JWT
+- Auth: Access/refresh tokens, secure http‑only cookies, protected routes
+- Media: Multer + Cloudinary for avatar, cover, video files, and thumbnails
+- Features: Comments, likes, subscriptions, watch history, channel profile
+- Stack: Node.js, Express, MongoDB/Mongoose, Multer, Cloudinary, JWT
 
 Highlights:
 
-   -Clear env setup with explicit dotenv load and fixed DB name configuration
-   -Modular structure: routes, controllers, models, middlewares, utils
-   -Ready for extension: video/comments/likes/subscriptions controllers scaffolded
-
+   - Clear env setup with explicit dotenv load and fixed DB name configuration
+   - Modular structure: routes, controllers, models, middlewares, utils
+   - Ready for extension: video/comments/likes/subscriptions controllers scaffolded
+     
 Repo: kanishkmishra‑afk/VideoTube
 
 ### 🎮 [Chat‑App — MERN + Socket.io Real‑Time Messaging)
 One‑to‑one real‑time chat with secure auth and a responsive UI.
-  -Realtime: Socket.io for instant messaging and online status
-  -Auth: JWT with hashed passwords (bcrypt), protected routes/sessions
-  -Data: Mongoose models for users and messages, REST APIs for auth/messaging/user lookup
-  -UI: React with responsive pages for login/signup/conversations
-  -Deployment: Production build on Vercel with proper env configuration
-  -[Live Demo]([https://zentry-zone.vercel.app/](https://chat-app-1ifm.vercel.app/))
+  - Realtime: Socket.io for instant messaging and online status
+  - Auth: JWT with hashed passwords (bcrypt), protected routes/sessions
+  - Data: Mongoose models for users and messages, REST APIs for auth/messaging/user lookup
+  - UI: React with responsive pages for login/signup/conversations
+  - Deployment: Production build on Vercel with proper env configuration
+  - [Live Demo]([https://zentry-zone.vercel.app/](https://chat-app-1ifm.vercel.app/))
   
 Repo: kanishkmishra‑afk/Chat‑App  
 
 ### 🎮 [BlogSpace — Full‑Stack Blogging Platform)
 A modern blog with auth, media uploads, and owner‑only edit/delete.
-  -Frontend: React + Tailwind, Redux Toolkit, protected routing
-  -Backend services: Appwrite Auth, Database, and Storage
-  -Features: Create/edit/delete posts, image uploads, secure CRUD
-  -Delivery: Deployed on Vercel, Git/GitHub for versioning and CI‑style deployments
+  - Frontend: React + Tailwind, Redux Toolkit, protected routing
+  - Backend services: Appwrite Auth, Database, and Storage
+  - Features: Create/edit/delete posts, image uploads, secure CRUD
+  - Delivery: Deployed on Vercel, Git/GitHub for versioning and CI‑style deployments
   - [Live Demo]([https://zentry-zone.vercel.app/](https://blog-space-bice.vercel.app/))
-  - 
+     
 Repo: kanishkmishra‑afk/BlogSpace 
 ---
 
