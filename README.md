@@ -1,18 +1,18 @@
 # Hi, I'm Kanishk Mishra 👋
 
-**Software Engineer** passionate about building modern, scalable, and secure web applications. I enjoy solving complex problems and transforming ideas into functional products using JavaScript, React, Node.js, and MongoDB. With a strong foundation in both frontend and backend, I focus on delivering clean code, optimized performance, and intuitive user experiences.
+**Software Engineer** focused on building responsive, secure, and performant web apps with MERN, real‑time features via Socket.io, and production‑ready backends with JWT auth, file uploads, and CI‑friendly workflows. Passionate about clean code, UX, and iterative delivery in Agile environments.
 
 ---
 
 ## 🚀 Tech Stack
 
-- **Languages**: JavaScript, Java, C, HTML5, CSS3  
-- **Frontend**: React.js, Tailwind CSS  
-- **Backend**: Node.js, Express.js  
-- **Database**: MongoDB, Mongoose  
-- **Tools & Services**: Git, GitHub, Postman, OpenSearch, Vercel  
-- **Testing/CI**: Unit Testing, gotestsum, static code analysis  
-- **Other**: REST APIs, Microservices, Debugging, VS Code, IntelliJ IDEA
+- **Languages**: JavaScript, Java, C, Python, HTML5, CSS3  
+- **Frontend**: React (Hooks, routing), Redux Toolkit, Context API, Tailwind CSS 
+- **Backend**: Node.js, Express.js, Flask, REST APIs  
+- **Database**: MongoDB, Mongoose, Appwrite DB/Storage  
+- **RealTime/AI**: Socket.io, GitHub Copilot, Gen AI  
+- **Practices**: JWT auth, secure cookies, file upload, testing, CI/CD, Agile/Scrum  
+- **Tooling**: Git, GitHub, Postman, OpenSearch, VS Code, Vercel
 
 ---
 
@@ -28,16 +28,42 @@
 
 ## 🧠 Projects
 
-### ✍️ [Blog Space](https://github.com/kanishkmishra-afk/blog-space)
-- A full-stack blogging platform with authentication, post creation/editing, and media upload  
-- Tech: React.js, Appwrite, Redux Toolkit, Tailwind CSS  
-- [Live Demo](https://blog-space-bice.vercel.app/)
+### ✍️ [VideoTube — Production‑Ready Backend API)
+Backend for a video‑sharing platform with JWT auth, refresh tokens, media uploads, and social features.
 
-### 🎮 [Zentry-Zone Landing Page](https://github.com/kanishkmishra-afk/Zentry-Zone)
-- Visually engaging gaming website with GSAP-powered scroll and hover animations  
-- Built using React, Tailwind CSS, and GSAP  
-- [Live Demo](https://zentry-zone.vercel.app/)
+-Auth: Access/refresh tokens, secure http‑only cookies, protected routes
+-Media: Multer + Cloudinary for avatar, cover, video files, and thumbnails
+-Features: Comments, likes, subscriptions, watch history, channel profile
+-Stack: Node.js, Express, MongoDB/Mongoose, Multer, Cloudinary, JWT
 
+Highlights:
+
+   -Clear env setup with explicit dotenv load and fixed DB name configuration
+   -Modular structure: routes, controllers, models, middlewares, utils
+   -Ready for extension: video/comments/likes/subscriptions controllers scaffolded
+
+Repo: kanishkmishra‑afk/VideoTube
+
+### 🎮 [Chat‑App — MERN + Socket.io Real‑Time Messaging)
+One‑to‑one real‑time chat with secure auth and a responsive UI.
+  -Realtime: Socket.io for instant messaging and online status
+  -Auth: JWT with hashed passwords (bcrypt), protected routes/sessions
+  -Data: Mongoose models for users and messages, REST APIs for auth/messaging/user lookup
+  -UI: React with responsive pages for login/signup/conversations
+  -Deployment: Production build on Vercel with proper env configuration
+  -[Live Demo]([https://zentry-zone.vercel.app/](https://chat-app-1ifm.vercel.app/))
+  
+Repo: kanishkmishra‑afk/Chat‑App  
+
+### 🎮 [BlogSpace — Full‑Stack Blogging Platform)
+A modern blog with auth, media uploads, and owner‑only edit/delete.
+  -Frontend: React + Tailwind, Redux Toolkit, protected routing
+  -Backend services: Appwrite Auth, Database, and Storage
+  -Features: Create/edit/delete posts, image uploads, secure CRUD
+  -Delivery: Deployed on Vercel, Git/GitHub for versioning and CI‑style deployments
+  - [Live Demo]([https://zentry-zone.vercel.app/](https://blog-space-bice.vercel.app/))
+  - 
+Repo: kanishkmishra‑afk/BlogSpace 
 ---
 
 ## 📜 Certifications
@@ -53,6 +79,7 @@
 - 📧 Email: [kanishkm794@gmail.com](mailto:kanishkm794@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/kanishk-mishra2001](https://www.linkedin.com/in/kanishk-mishra2001)  
 - 💻 GitHub: [github.com/kanishkmishra-afk](https://github.com/kanishkmishra-afk)
+- 💻 X: [(https://x.com/kanishkm794?t=OuijqBD6gh091hhAwk5tqA&s=09))
 
 ---
 
