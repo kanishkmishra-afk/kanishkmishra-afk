@@ -6,13 +6,13 @@
 
 ## 🚀 Tech Stack
 
-- **Languages**: JavaScript, Java, C, Python, HTML5, CSS3  
-- **Frontend**: React (Hooks, routing), Redux Toolkit, Context API, Tailwind CSS 
-- **Backend**: Node.js, Express.js, Flask, REST APIs  
-- **Database**: MongoDB, Mongoose, Appwrite DB/Storage  
+- **Languages**:   JavaScript, Java, C, Python, HTML5, CSS3  
+- **Frontend**:    React (Hooks, routing), Redux Toolkit, Context API, Tailwind CSS 
+- **Backend**:     Node.js, Express.js, Flask, REST APIs  
+- **Database**:    MongoDB, Mongoose, Appwrite DB/Storage  
 - **RealTime/AI**: Socket.io, GitHub Copilot, Gen AI  
-- **Practices**: JWT auth, secure cookies, file upload, testing, CI/CD, Agile/Scrum  
-- **Tooling**: Git, GitHub, Postman, OpenSearch, VS Code, Vercel
+- **Practices**:   JWT auth, secure cookies, file upload, testing, CI/CD, Agile/Scrum  
+- **Tooling**:     Git, GitHub, Postman, OpenSearch, VS Code, Vercel
 
 ---
 
@@ -76,9 +76,9 @@ Repo: kanishkmishra‑afk/BlogSpace
 
 ## 📫 Let's Connect
 
-- 📧 Email: [kanishkm794@gmail.com](mailto:kanishkm794@gmail.com)  
+- 📧 Email:    [kanishkm794@gmail.com](mailto:kanishkm794@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/kanishk-mishra2001](https://www.linkedin.com/in/kanishk-mishra2001)  
-- 💻 GitHub: [github.com/kanishkmishra-afk](https://github.com/kanishkmishra-afk)
-- 💻 X: [https://x.com/kanishkm794?t=OuijqBD6gh091hhAwk5tqA&s=09)
+- 💻 GitHub:   [github.com/kanishkmishra-afk](https://github.com/kanishkmishra-afk)
+- 💻 X:        https://x.com/kanishkm794?t=OuijqBD6gh091hhAwk5tqA&s=09
 
 ---
