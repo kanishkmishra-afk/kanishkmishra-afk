@@ -28,14 +28,6 @@
 
 ## 🧠 Projects
 
-### 🔐 [Secure Drone Authentication System](http://princelevin.pythonanywhere.com/)
-- Built a secure authentication scheme for Internet of Drones (IoD) using Chebyshev chaotic maps  
-- Used Flask for backend, HTML/JS for UI, and SHA-256 hashing + XOR encryption
-
-### 📷 Encrypted Image Protection App *(Android – Kotlin)*
-- Created a mobile app with Advanced Hill Cipher for image encryption/decryption  
-- Used Jetpack Compose UI, integrated MediaStore for secure image storage  
-
 ### ✍️ [Blog Space](https://github.com/kanishkmishra-afk/blog-space)
 - A full-stack blogging platform with authentication, post creation/editing, and media upload  
 - Tech: React.js, Appwrite, Redux Toolkit, Tailwind CSS  
