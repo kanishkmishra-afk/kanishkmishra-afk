@@ -51,7 +51,7 @@ One‑to‑one real‑time chat with secure auth and a responsive UI.
   - Data: Mongoose models for users and messages, REST APIs for auth/messaging/user lookup
   - UI: React with responsive pages for login/signup/conversations
   - Deployment: Production build on Vercel with proper env configuration
-  - [Live Demo]([https://zentry-zone.vercel.app/](https://chat-app-1ifm.vercel.app/))
+  - [Live Demo](https://chat-app-1ifm.vercel.app/)
   
 Repo: kanishkmishra‑afk/Chat‑App  
 
@@ -61,7 +61,7 @@ A modern blog with auth, media uploads, and owner‑only edit/delete.
   - Backend services: Appwrite Auth, Database, and Storage
   - Features: Create/edit/delete posts, image uploads, secure CRUD
   - Delivery: Deployed on Vercel, Git/GitHub for versioning and CI‑style deployments
-  - [Live Demo]([https://zentry-zone.vercel.app/](https://blog-space-bice.vercel.app/))
+  - [Live Demo](https://blog-space-bice.vercel.app/)
      
 Repo: kanishkmishra‑afk/BlogSpace 
 ---
@@ -79,8 +79,6 @@ Repo: kanishkmishra‑afk/BlogSpace
 - 📧 Email: [kanishkm794@gmail.com](mailto:kanishkm794@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/kanishk-mishra2001](https://www.linkedin.com/in/kanishk-mishra2001)  
 - 💻 GitHub: [github.com/kanishkmishra-afk](https://github.com/kanishkmishra-afk)
-- 💻 X: [(https://x.com/kanishkm794?t=OuijqBD6gh091hhAwk5tqA&s=09))
+- 💻 X: [https://x.com/kanishkm794?t=OuijqBD6gh091hhAwk5tqA&s=09)
 
 ---
-
-> “Stay hungry, stay foolish.” – Steve Jobs
