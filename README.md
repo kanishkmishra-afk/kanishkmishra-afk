@@ -28,7 +28,7 @@
 
 ## 🧠 Projects
 
-### ✍️ [VideoTube — Production‑Ready Backend API)
+### ✍️ VideoTube — Production‑Ready Backend API
 Backend for a video‑sharing platform with JWT auth, refresh tokens, media uploads, and social features.
 
 - Auth: Access/refresh tokens, secure http‑only cookies, protected routes
@@ -44,7 +44,7 @@ Highlights:
      
 Repo: kanishkmishra‑afk/VideoTube
 
-### 🎮 [Chat‑App — MERN + Socket.io Real‑Time Messaging)
+### 🎮 Chat‑App — MERN + Socket.io Real‑Time Messaging
 One‑to‑one real‑time chat with secure auth and a responsive UI.
   - Realtime: Socket.io for instant messaging and online status
   - Auth: JWT with hashed passwords (bcrypt), protected routes/sessions
@@ -55,7 +55,7 @@ One‑to‑one real‑time chat with secure auth and a responsive UI.
   
 Repo: kanishkmishra‑afk/Chat‑App  
 
-### 🎮 [BlogSpace — Full‑Stack Blogging Platform)
+### 🎮 BlogSpace — Full‑Stack Blogging Platform
 A modern blog with auth, media uploads, and owner‑only edit/delete.
   - Frontend: React + Tailwind, Redux Toolkit, protected routing
   - Backend services: Appwrite Auth, Database, and Storage
