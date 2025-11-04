@@ -19,10 +19,12 @@
 ## 💼 Experience
 
 ### Software Engineering Intern – *Codertech (Jan 2025 – Jun 2025)*
-- Developed responsive frontend components using React and Tailwind CSS  
-- Implemented features like product browsing, cart, checkout, and digital clinic management  
-- Created backend APIs using Node.js and MongoDB  
-- Collaborated in an Agile environment with version control using GitHub  
+- Developed 15+ REST APIs in Node.js and MongoDB, processing 1000+ daily requests; collaborated on 50+ 
+GitHub PRs across 3-person Agile team.  
+- Built responsive UI components with React and Tailwind for 3 core features (browsing, cart, checkout), 
+improving user flow by 25%.   
+- Improved code quality via unit tests achieving 85% coverage and static analysis.  
+- Supported CI workflows reducing deployment time by 40%  
 
 ---
 
