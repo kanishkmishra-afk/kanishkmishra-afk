@@ -28,15 +28,15 @@
 
 ## 🧠 Projects
 
-# 🛒 AI-Powered E-Commerce Website (New!)
+### 🛒 AI-Powered E-Commerce Website (New!)
 A full-stack e-commerce platform leveraging modern JavaScript and AI capabilities to deliver smart shopping experiences.
 
-## Live Demo
+### Live Demo
 - Frontend (User): https://e-commerce-website-frontendone.onrender.com
 
 - Admin Panel: https://e-commerce-website-admin-88fo.onrender.com
 
-## Features
+### Features
 
 - speak and navigate and more Advanced AI-driven product recommendations (coming soon)
 - User authentication and secure sessions
