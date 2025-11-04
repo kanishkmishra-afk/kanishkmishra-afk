@@ -28,6 +28,29 @@
 
 ## 🧠 Projects
 
+# 🛒 AI-Powered E-Commerce Website (New!)
+A full-stack e-commerce platform leveraging modern JavaScript and AI capabilities to deliver smart shopping experiences.
+
+## Live Demo
+- Frontend (User): https://e-commerce-website-frontendone.onrender.com
+
+- Admin Panel: https://e-commerce-website-admin-88fo.onrender.com
+
+## Features
+
+- speak and navigate and more Advanced AI-driven product recommendations (coming soon)
+- User authentication and secure sessions
+- Product catalog: browse, search, and filter items
+- Shopping cart with add/remove items, quantity updates
+- Checkout flow and order management
+- Responsive UI for all device sizes
+- Admin panel for inventory and order management
+- Future plans for AI-powered search and chatbots
+
+Repo: kanishkmishra-afk/E-Commerce-Website
+
+
+
 ### ✍️ VideoTube — Production‑Ready Backend API
 Backend for a video‑sharing platform with JWT auth, refresh tokens, media uploads, and social features.
 
